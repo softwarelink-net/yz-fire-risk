@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yz-fire-risk.softwarelink.net/sitemap.xml
